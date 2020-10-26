@@ -11,6 +11,7 @@ First I copied some of tweet parts and put them into lists
     part4 = ["So sad", "Apologize", "So true", "Media won't report", "Big trouble", "Fantastic job", "Stay tuned"]
 
 Then I created a list of lists 
+
     best_words = [part1, part2, part3, part4]
     print(best_words)
 
